@@ -1,0 +1,34 @@
+users{
+    id
+    firstName 
+    lastName 
+    profile Img
+    sim charge 
+}
+
+ services {
+    id 
+    icon 
+    title 
+    expire date 
+    active 
+ }
+
+ recommend-table {
+    id 
+    title 
+    offer 
+    price 
+    expire date 
+    userID 
+ }
+
+ sales {
+    id 
+    buy-date 
+    expire-date 
+    title 
+    offer 
+    price
+    userID 
+ }
